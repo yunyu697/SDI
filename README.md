@@ -1,2 +1,2 @@
 # SDI
-SpeedDailIcons
+Speed Dail Icons and Thumbnails
